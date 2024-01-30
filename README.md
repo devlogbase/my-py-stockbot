@@ -19,7 +19,13 @@
 
 <br/>
 
-## 📚 필요 라이브러리
+## 📚 파이썬 버전 및 필요 라이브러리
 
-- python-telegram-bot : 텔레그램 관련 라이브러리
-- yfinance : 야후 파이낸스 라이브러리
+- Python : 3.6 버전 이상
+- <a href="https://python-telegram-bot.org/">python-telegram-bot</a> : 텔레그램 관련 라이브러리
+- <a href="https://github.com/ranaroussi/">yfinance</a> : 야후 파이낸스 라이브러리
+
+<br/>
+
+## 기능 설명
+
