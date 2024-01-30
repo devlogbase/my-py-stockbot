@@ -1,4 +1,7 @@
 # 🤖 MyPyStockbot
+
+![프로그램 실행 예시](https://github.com/devlogbase/my-py-stockbot/assets/155949809/c8275e48-76eb-47c9-9075-9dc4430b7641)
+
 <br/>
 
 ## 📢 프로그램 소개
