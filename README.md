@@ -1,6 +1,7 @@
 # 🤖 MyPyStockbot
 
-![프로그램 실행 예시](https://github.com/devlogbase/my-py-stockbot/assets/155949809/c8275e48-76eb-47c9-9075-9dc4430b7641)
+![프로그램 실행 예시](https://github.com/devlogbase/my-py-stockbot/assets/155949809/50f97302-8a72-4701-8e3a-9d3297d43a2d)
+![프로그램 실행 예시2](https://github.com/devlogbase/my-py-stockbot/assets/155949809/3cf5c659-132a-491f-9f8c-6decd6701239)
 
 <br/>
 
@@ -32,3 +33,11 @@
 
 ## 기능 설명
 
+- `/start` : 채팅방 입장시 Start 명령어가 입력되며 입장한 User의 Chat ID가 데이터베이스로 Insert 됩니다. (추후 알림 On/Off에 사용)
+- `/help` : 채팅방 명령어를 안내해 주는 메시지가 뜹니다.
+- `/exc` 또는 `ㅎㅇ`, `환율` 입력 : 원/달러 환율 정보를 보여줍니다.
+- `/idx` : 주가지수를 불러와 보여줍니다. (다우, 나스닥, 러셀2000 지수)
+- `/etf` : 설정한 ETF의 저가 알림 기능을 On/Off 설정하는 메뉴를 보여줍니다.
+- `/gld` : GLD ETF의 가격 정보를 보여줍니다.
+- `/dbc` : DBC ETF의 가격 정보를 보여줍니다.
+- 
