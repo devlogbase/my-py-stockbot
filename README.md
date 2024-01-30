@@ -3,11 +3,16 @@
 <br/>
 
 <figure class="half">
+
 <a href="link"><img src="https://github.com/devlogbase/my-py-stockbot/assets/155949809/298f26e2-fe94-41fb-979e-324372b3f4a6"></a>
 <a href="link"><img src="https://github.com/devlogbase/my-py-stockbot/assets/155949809/320ae39d-e639-4e03-9a9f-84c720399bb7"></a>
+<br/>
+
 <figcaption align="center">챗봇 프로그램 실행 예시</figcaption>
+
 </figure>
 
+<br/>
 <br/>
 
 ## 📢 프로그램 소개
