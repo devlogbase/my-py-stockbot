@@ -3,8 +3,8 @@
 <br/>
 
 <figure class="half">
-<a href="link"><img src="https://github.com/devlogbase/my-py-stockbot/assets/155949809/a517038a-00fb-477e-b3f0-ff1aa38d2adb"></a>
-<a href="link"><img src="https://github.com/devlogbase/my-py-stockbot/assets/155949809/0ac7a767-3039-455d-b051-345538ce6148"></a>
+<a href="link"><img src="https://github.com/devlogbase/my-py-stockbot/assets/155949809/5fe8be97-5b74-4fef-bee8-d0c0cb22d2e9"></a>
+<a href="link"><img src="https://github.com/devlogbase/my-py-stockbot/assets/155949809/0cd48f80-8df4-44e9-8b83-0411c6015f77"></a>
 </figure>
 
 <br/>
