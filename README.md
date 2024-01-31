@@ -3,8 +3,8 @@
 <br/>
 
 <figure class="half">
-<a href="link"><img src="https://github.com/devlogbase/my-py-stockbot/assets/155949809/298f26e2-fe94-41fb-979e-324372b3f4a6"></a>
-<a href="link"><img src="https://github.com/devlogbase/my-py-stockbot/assets/155949809/320ae39d-e639-4e03-9a9f-84c720399bb7"></a>
+<a href="link"><img src="https://github.com/devlogbase/my-py-stockbot/assets/155949809/a517038a-00fb-477e-b3f0-ff1aa38d2adb"></a>
+<a href="link"><img src="https://github.com/devlogbase/my-py-stockbot/assets/155949809/0ac7a767-3039-455d-b051-345538ce6148"></a>
 </figure>
 
 <br/>
@@ -33,15 +33,19 @@
 - Python : 3.6 버전 이상
 - <a href="https://python-telegram-bot.org/">python-telegram-bot</a> : 텔레그램 관련 라이브러리
 - <a href="https://github.com/ranaroussi/yfinance/">yfinance</a> : 야후 파이낸스 라이브러리
+- pandas
+- requests
+- pymysql
+- apscheduler
 
 <br/>
 
 ## ⚙️ 기능 설명
 
-- `/start` : 채팅방 입장시 Start 명령어가 입력되며 입장한 User의 Chat ID가 데이터베이스로 Insert 됩니다. (추후 알림 On/Off에 사용)
-- `/help` : 채팅방 명령어를 안내해 주는 메시지가 뜹니다.
+- `/start` : 채팅방 입장시 Start 명령어가 입력되며 입장한 User의 Chat ID가 데이터베이스로 Insert 됩니다.
+- `/help` : 채팅방 명령어를 안내해 주는 메시지를 보여줍니다.
 - `/exc` 또는 `환율`, `ㅎㅇ` 입력 : 원/달러 환율 정보를 보여줍니다.
-- `/idx` 또는 `지수`, `ㅈㅅ` 입력 : 주가지수를 불러와 보여줍니다. (다우, S&P500, 나스닥 지수)
+- `/idx` 또는 `지수`, `ㅈㅅ` 입력 : 주가지수를 불러와 보여줍니다. (다우, S&P500, 나스닥, 러셀 2000 지수)
 - `/etf` : 설정한 ETF의 저가 알림 기능을 On/Off 설정하는 메뉴를 보여줍니다.
 - `/gld` : GLD ETF의 가격 정보를 보여줍니다.
 - `/dbc` : DBC ETF의 가격 정보를 보여줍니다.
